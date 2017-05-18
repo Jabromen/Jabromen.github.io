@@ -110,6 +110,11 @@ textarea {
     border-bottom: 1px solid #cdcdcd;
 }
 
+.section-title a {
+    color: #222;
+    text-decoration: none;
+}
+
 a {
     color: #26268f;
 }
@@ -133,6 +138,14 @@ a, a:hover, a:active {
 .site-title a {
     color: #222;
     text-decoration: none;
+}
+
+.project-section h4 {
+    margin-bottom: 0em; 
+}
+
+.project-section p {
+    margin-top: 0.5em; 
 }
 
 .header-bar {
